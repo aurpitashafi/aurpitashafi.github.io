@@ -1,0 +1,47 @@
+h1 {
+  font-family: fantasy;
+  color: #2E4053;
+  font-size: 50px;
+  text-align: center;
+}
+p {
+  font-family: cursive;
+  color: #2E4053;
+  text-align: center;
+}
+body {
+  background-color: #AED6F1;
+}
+h2 {
+  text-align: left;
+  font-size: 25;
+  font-family: fantasy;
+
+}
+#p2 {
+  font-family: cursive;
+  color: #2E4053;
+  text-align: left;
+}
+#img1 {
+  display: block;
+  margin: auto;
+  height: 50px;
+  width: 60px;
+}
+h3 {
+  text-align: left;
+  font-size: 75;
+  font-family: fantasy;
+
+}
+ul {
+  font-family: cursive;
+  color: #2E4053;
+  text-align: left;
+}
+#img2 {
+  position: left;
+  height: 70px;
+  width: 80px;
+}
