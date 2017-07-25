@@ -18,7 +18,7 @@ h2 {
   font-family: fantasy;
 
 }
-#p2 {
+p2 {
   font-family: cursive;
   color: #2E4053;
   text-align: left;
@@ -31,7 +31,7 @@ h2 {
 }
 h3 {
   text-align: left;
-  font-size: 75;
+  font-size: 60;
   font-family: fantasy;
 
 }
@@ -40,8 +40,14 @@ ul {
   color: #2E4053;
   text-align: left;
 }
+
 #img2 {
   position: left;
   height: 70px;
   width: 80px;
+}
+
+img {
+  height: 300px;
+  width: 400px;
 }
