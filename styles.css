@@ -7,21 +7,21 @@ h1 {
 p {
   font-family: cursive;
   color: #2E4053;
-  text-align: center;
+  text-align: left;
 }
 body {
-  background-color: #AED6F1;
+  background-image: url("http://www.grapponenews.com/wp-content/uploads/2013/02/brick-background.png");
 }
 h2 {
   text-align: left;
-  font-size: 25;
+  font-size: 50;
   font-family: fantasy;
 
 }
 p2 {
   font-family: cursive;
   color: #2E4053;
-  text-align: left;
+  text-align: center;
 }
 #img1 {
   display: block;
@@ -31,7 +31,7 @@ p2 {
 }
 h3 {
   text-align: left;
-  font-size: 60;
+  font-size: 70;
   font-family: fantasy;
 
 }
